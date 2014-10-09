@@ -1,0 +1,32 @@
+.DS_Store
+RomoDemo/compile_commands.json
+RomoDemo/build
+RomoDemo/xcodebuild.log
+node_modules
+tmp
+RUNNING_PID
+files
+screenShots
+/\.
+xcuserdata
+^build/
+.*\.mode1v3$
+.*\.pbxuser$
+log/
+tmp
+.class
+# Uneccessary files
+.DS_Store
+*~
+*.swp
+
+# No binaries
+*.bin
+
+# Vagrant
+.vagrant
+
+# webrtc-server
+webrtc-server/bower_components
+webrtc-server/build
+

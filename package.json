@@ -1,0 +1,18 @@
+{
+  "name": "DataTransmitter",
+  "description": "DataTransmitter",
+  "version": "0.0.1",
+  "author": "Toshiya Nakakura",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nakakura/DataTransmitter"
+  },
+  "engines": {
+    "node": "0.10.x"
+  },
+  "dependencies": {
+  },
+  "devDependencies": {
+    "karma-chai-sinon": "*"
+  }
+}
